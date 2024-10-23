@@ -1,7 +1,7 @@
 # optimus-vulkan-fix
 a startup script I made to add environment variables for vulkan drivers when using Arch linux on a laptop that uses Nvidia optimus and fix issues when running in iGPU only mode
 
-## My specific conditions that require this fix are:
+## Specific conditions that required this fix are:
 - Laptop with an intel iGPU and nvidia dGPU
 - Using KDE Plasma for desktop environment
 - Using Wayland as a compositor
